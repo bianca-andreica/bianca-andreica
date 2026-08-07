@@ -1,8 +1,12 @@
 # Hi, I'm Bianca-Maria Andreica 👋
 
-🎓 **Computer Science Student** at **Politehnica University of Timișoara** with a strong interest in **Cloud Computing, Systems Programming and High-Performance Computing**.
+Hi, I'm Bianca-Maria Andreica 👋
 
-I enjoy building reliable software—from low-level systems programming to cloud-native infrastructure. Throughout my academic projects, I've worked with distributed systems concepts, heterogeneous computing, containerized applications and modern software engineering practices.
+🎓 **Computer Science Student** at **Politehnica University of Timișoara**.
+
+🌍 During my **Erasmus+ mobility at the University of Salerno (Italy)**, I strengthened my background in cloud technologies, distributed systems, and modern software engineering while working on international academic projects.
+
+My primary interests are **Cloud Computing, Cloud-Native Applications, Kubernetes, DevOps, and Software Engineering**. I enjoy designing scalable systems, automating workflows, and developing reliable applications using modern development tools.
 
 🚀 **Currently Seeking:** **Part-Time Cloud / DevOps / Software Engineering** opportunities in **Timișoara** or **Remote**.
 

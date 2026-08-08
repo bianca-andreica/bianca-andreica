@@ -127,6 +127,6 @@ Designed an intelligent web application that integrates AI-assisted text interac
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bianca-andreica-101424395
+💼 **LinkedIn:** https://www.linkedin.com/in/bianca-andreica
 
 📧 **Email:** [bianca-maria.andreica@student.upt.ro](mailto:bianca-maria.andreica@student.upt.ro)

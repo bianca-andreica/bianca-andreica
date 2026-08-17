@@ -1,132 +1,93 @@
 # Hi, I'm Bianca-Maria Andreica 👋
 
-Hi, I'm Bianca-Maria Andreica 👋
+🎓 **Computer Science student** at **Politehnica University of Timișoara**.
 
-🎓 **Computer Science Student** at **Politehnica University of Timișoara**.
+🌍 During my **Erasmus+ mobility at the University of Salerno (Italy)**, I gained hands-on experience across software engineering, cloud-native systems, high-performance computing and Linux-based development environments.
 
-🌍 During my **Erasmus+ mobility at the University of Salerno (Italy)**, I strengthened my background in cloud technologies, distributed systems, and modern software engineering while working on international academic projects.
+💻 I enjoy building and understanding **software systems**, from C/C++ applications and Python-based tools to containerized and cloud-native workloads.
 
-My primary interests are **Cloud Computing, Cloud-Native Applications, Kubernetes, DevOps, and Software Engineering**. I enjoy designing scalable systems, automating workflows, and developing reliable applications using modern development tools.
-
-🚀 **Currently Seeking:** **Part-Time Cloud / DevOps / Software Engineering** opportunities in **Timișoara** or **Remote**.
+🔎 **Currently seeking:** **student / internship opportunities** in **Software Engineering, Systems, IT Infrastructure, Cloud or Embedded Software** in **Timișoara** or **Remote**.
 
 ---
 
-## ☁️ What I'm Interested In
+## 💡 Areas of Interest
 
-* Cloud Computing & Cloud-Native Applications
-* Kubernetes & Container Orchestration
-* DevOps & Infrastructure Automation
-* Systems Programming
-* High-Performance & Parallel Computing
-* Distributed Systems
-* Software Engineering
+- **Software Engineering & Application Development**
+- **Systems Programming & C/C++**
+- **Cloud & Cloud-Native Technologies**
+- **IT Infrastructure & Automation**
+- **Embedded & Performance-Oriented Computing**
+- **Distributed & High-Performance Computing**
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Area                             | Technologies                                                                                       |
-| :------------------------------- | :------------------------------------------------------------------------------------------------- |
-| ☁️ **Cloud & DevOps**            | Kubernetes, Docker, Linux (Ubuntu/WSL), Bash, Git, Cloud Architecture Models                       |
-| ⚡ **Systems & HPC**              | C, C++, SYCL, DPCTL, OpenCL, CMake, Parallel Computing                                             |
-| 💻 **Software Engineering**      | Python, JavaScript, Software Testing, Web & API Testing, Automated Testing, IntelliJ IDEA, VS Code |
-| 🔐 **Infrastructure & Security** | Network Cyber-Security, Cluster Isolation, Microservices                                           |
+| **Area** | **Technologies** |
+|---|---|
+| 💻 **Programming & Software** | C, C++, Python, JavaScript, Bash |
+| ☁️ **Cloud & Infrastructure** | Kubernetes, Docker, Linux, YAML, Git, Cloud Architecture |
+| ⚡ **Systems & HPC** | SYCL, DPCTL, OpenCL, CMake, Parallel Computing |
+| 🧪 **Testing & Development** | Software Testing, Web/API Testing, Automated Testing |
+| 🔐 **Security & Networking** | Network Cybersecurity, Cluster Isolation, Microservices |
 
 ---
 
 ## 🔬 Featured Projects
 
+### 💻 AI-Assisted Reading Comprehension Platform
+
+Developed a web application and Chrome extension for AI-assisted learning.
+
+**Technologies:** Python • Flask • JavaScript • APIs • Automation • Testing
+
+---
+
 ### ☁️ Kubernetes & Cloud Architecture Labs
 
-Designed and deployed Kubernetes workloads while exploring modern cloud-native architecture patterns.
+Deployed and managed containerized workloads while exploring cloud-native architecture and Kubernetes infrastructure.
 
-**Highlights**
-
-* Multi-replica deployments
-* Service discovery
-* Cluster isolation concepts
-* Sidecar logging architecture
-* High-availability deployment strategies
-* Cloud deployment model evaluation
-
-**Technologies:** Kubernetes • Docker • Linux • YAML
+**Technologies:** Kubernetes • Docker • Linux • YAML • Gateway API
 
 ---
 
 ### ⚡ DPCTL Python Bindings for Lattice Boltzmann (miniLB)
 
-Developed Python bindings over a high-performance C++ Lattice Boltzmann simulation using Intel oneAPI technologies.
+Developed Python bindings for a high-performance C++ Lattice Boltzmann application using Intel oneAPI technologies.
 
-**Highlights**
-
-* Python ↔ C++ interoperability
-* DPCTL integration
-* SYCL heterogeneous acceleration
-* Parallel computing concepts
-* Performance benchmarking
-* Scientific computing
-
-**Technologies:** C++ • Python • SYCL • DPCTL • OpenCL • CMake
+**Technologies:** C++ • Python • SYCL • DPCTL • CMake • HPC
 
 ---
 
-### 💻 Farming Game
+### 🌱 C Farm Simulator
 
-Developed a modular 2D farming game using C and the Raylib graphics library.
-
-**Highlights**
-
-* Modular architecture
-* State management
-* Rendering pipeline
-* Memory handling
-* Interactive gameplay systems
+Developed a 2D farming application with interactive resource-management mechanics.
 
 **Technologies:** C • Raylib
 
 ---
 
-### 🤖 AI-Assisted Reading Comprehension Platform
-
-Designed an intelligent web application that integrates AI-assisted text interaction to improve reading comprehension and learning efficiency.
-
-**Technologies:** Python • JavaScript • AI APIs
-
----
-
 ## 📜 Certifications
 
-* **Advanced Network Cyber-Security Concepts** — UPT & T8X Industries *(DigComp 2.2 Security)*
-* **Software Testing: Web, API & Automated Testing** — UPT & T8X Industries *(DigComp 2.2 Security)*
-* **Fundamentals of AI & Prompt Engineering** — UPT & T8X Industries *(DigComp 2.2 Digital Content Creation)*
+- **Advanced Network Cyber-Security Concepts** — UPT & T8X Industries
+- **Software Testing: Web, API & Automated Testing** — UPT & T8X Industries
+- **Fundamentals of AI & Prompt Engineering** — UPT & T8X Industries
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Kubernetes Workloads
-* Cloud-Native Architectures
-* Distributed Systems
-* CI/CD Pipelines
-* Infrastructure Automation
-* Scalable Software Design
-
----
-
-## ❤️ What I Enjoy Building
-
-* Cloud-native applications
-* Containerized software
-* Distributed systems
-* Performance-oriented C/C++ applications
-* Infrastructure-focused software
-* Automation tools
+- Software Architecture & Systems Design
+- Cloud-Native Technologies
+- Distributed Systems
+- Embedded & Systems Programming
+- CI/CD & Automation
+- High-Performance Computing
 
 ---
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/bianca-andreica
+💼 **LinkedIn:** [linkedin.com/in/bianca-andreica](https://www.linkedin.com/in/bianca-andreica)
 
-📧 **Email:** [bianca-maria.andreica@student.upt.ro](mailto:bianca-maria.andreica@student.upt.ro)
+📧 **Email:** bianca-maria.andreica@student.upt.ro
